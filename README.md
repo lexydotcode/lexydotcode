@@ -1,6 +1,6 @@
 # ¡Hola, soy lexydotcode! 👋
 
-<img align="right" src="assets/1_2xBCWwixj-Pvp11hJCPTVg.jpg" width="250" height="250" alt="Coding gif">
+<img align="right" src="assets/1_2xBCWwixj-Pvp11hJCPTVg.jpg" width="250" height="120" alt="Coding gif">
 
 ¡Bienvenido a mi perfil de GitHub!  
 Soy un apasionado del desarrollo y la tecnología, siempre buscando aprender algo nuevo y compartir mis proyectos con la comunidad.
