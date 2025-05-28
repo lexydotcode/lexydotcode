@@ -20,7 +20,7 @@ Soy un apasionado del desarrollo y la tecnología, siempre buscando aprender alg
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nacosan&show_icons=true&theme=radical" alt="lexydotcode's GitHub stats" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lexydotcode&show_icons=true&theme=radical" alt="lexydotcode's GitHub stats" width="410"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexydotcode&layout=compact&theme=radical" alt="Top Langs" width="330"/>
 </p>
 
